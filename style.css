@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f8f9fa;
+    color: #0d3350;
+}
+
+header {
+    background: #0d3350;
+    color: #fff;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    color: #fff;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+.hero {
+    background: #6b8f36;
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.content {
+    padding: 30px 20px;
+}
+
+footer {
+    background: #0d3350;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
